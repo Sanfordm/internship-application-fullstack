@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "internship-application-fullstack"
 type = "javascript"
-account_id = ""
+account_id = "ae9395c1b1b50d5daa81691794e7a7fc"
 workers_dev = true
 route = ""
 zone_id = ""
